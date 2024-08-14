@@ -4,4 +4,3 @@ ctransformers
 langchain
 langchain-community
 python-box
-streamlit
